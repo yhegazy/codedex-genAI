@@ -1,0 +1,1 @@
+# this exercise was to install nltk and numpy via pip3
