@@ -6,4 +6,4 @@ text = 'Hello Beautiful, how are you?'
 # Perform the translation
 translation = translator.translate(text)
 # Print the translated text
-print(translation)  # Output: مرحبا كيف حالك؟
+print(translation)  # Output: مرحبا جميلة, كيف حالك؟
